@@ -20,4 +20,5 @@
 - `deprecated`: A folder to store "old code" that **you do not use anymore** or code that you experimented with, but decided to not go ahead. This is useful in case you ever need to come back to an older iteration of code or to express your other approaches to the problem.
 
 # Other
-- Instructions: **Run the notebooks according to their number**
+- Instructions: - **Run the notebooks according to their number.**
+                - Select Run All in each notebook.
